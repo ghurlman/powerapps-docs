@@ -30,7 +30,13 @@ The entity logical name. Read-only.
 
 The record id. Read-only.
 
-**Type**: `string`
+**Type**: `object`
+
+The `id` object contains the following property:
+
+|Name|Type|Description|
+|--|--|--|
+|`guid`|`string`|00000000-0000-0000-0000-000000000000|
 
 ## name
 
